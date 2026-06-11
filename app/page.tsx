@@ -20,7 +20,7 @@ export default function DoorDashPage() {
             Then start your first offer to unlock the Nordstrom credit and all other exclusive offers.
           </p>
           <a
-            href="https://trksy.org/aff_c?offer_id=1146&aff_id=165496"
+            href="https://trksy.org/aff_c?offer_id=1325&aff_id=165496"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-black hover:bg-gray-800 text-white py-4 px-5 flex items-center justify-center gap-2 transition-colors font-bold text-sm rounded-lg text-center whitespace-nowrap"
