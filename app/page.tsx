@@ -34,9 +34,9 @@ export default function DoorDashPage() {
 
   return (
     <div className="min-h-screen bg-white flex flex-col items-center justify-center px-4 py-5">
-      {/* DoorDash Logo Card */}
-      <div className="w-40 h-20 rounded-xl flex items-center justify-center mb-4 p-2">
-        <Image src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5f49225f68ecc70004ae7049-F3CcTx0Y0vk2zfpGFg35TbOq8Q9yki.png" alt="DoorDash" width={130} height={65} className="object-contain" />
+      {/* Nordstrom Logo Card */}
+      <div className="w-56 h-20 bg-black rounded-xl flex items-center justify-center mb-4 p-3">
+        <Image src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nordstrom-logo-oM6xDdbRtmcP9cvuNAYgO6rRy4oaqy.png" alt="Nordstrom" width={200} height={50} className="object-contain" />
       </div>
 
       {/* Heading */}
