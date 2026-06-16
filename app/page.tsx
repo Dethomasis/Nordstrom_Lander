@@ -14,13 +14,13 @@ export default function DoorDashPage() {
         <div className="w-full max-w-sm bg-[#F9F6F1] rounded-lg p-6 border border-gray-200">
           <p className="text-black text-xs font-bold tracking-wide mb-3 text-center">BEFORE YOU GO</p>
           <h3 className="text-gray-900 text-xl font-bold text-center mb-3">
-            Select <span className="text-black underline">21+</span> when you sign up
+            Select <span className="text-black underline">18+</span> when you sign up
           </h3>
           <p className="text-gray-500 text-sm font-bold text-center mb-5">
-            Then start your first offer to unlock the Shein credit and all other exclusive offers.
+            Then start your first offer to unlock the Nordstrom credit and all other exclusive offers.
           </p>
           <a
-            href="https://trksy.org/aff_c?offer_id=1146&aff_id=165496"
+            href="https://trksy.org/aff_c?offer_id=1325&aff_id=165496"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-black hover:bg-gray-800 text-white py-4 px-5 flex items-center justify-center gap-2 transition-colors font-bold text-sm rounded-lg text-center whitespace-nowrap"
@@ -34,16 +34,16 @@ export default function DoorDashPage() {
 
   return (
     <div className="min-h-screen bg-white flex flex-col items-center justify-center px-4 py-5">
-      {/* DoorDash Logo Card */}
-      <div className="w-40 h-20 rounded-xl flex items-center justify-center mb-4 p-2">
-        <Image src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5f49225f68ecc70004ae7049-F3CcTx0Y0vk2zfpGFg35TbOq8Q9yki.png" alt="DoorDash" width={130} height={65} className="object-contain" />
+      {/* Nordstrom Logo Card */}
+      <div className="w-56 h-20 bg-white rounded-xl flex items-center justify-center mb-4 p-3">
+        <Image src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nordstrom-logo-1-DzrHqs3iCvtFeUwmMr3KobkEp99FW4.jpg" alt="Nordstrom" width={200} height={50} className="object-contain" />
       </div>
 
       {/* Heading */}
       <h1 className="text-gray-900 text-base text-center mb-5 leading-tight font-bold">
         Complete the Steps below to Claim your
         <br />
-        <span className="text-black">$750</span> Shein Credit
+        <span className="text-black">$500</span> Nordstrom Credit
       </h1>
 
       {/* Quick Start Guide Card */}
@@ -58,7 +58,7 @@ export default function DoorDashPage() {
             <Check className="w-4 h-4 text-black mt-0.5 flex-shrink-0" />
             <div>
               <p className="text-gray-900 text-sm font-bold">Complete 2-3 required deals</p>
-              <p className="text-black text-sm font-semibold">Earn up to $750</p>
+              <p className="text-black text-sm font-semibold">Earn up to $500</p>
             </div>
           </div>
 
